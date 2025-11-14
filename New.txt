@@ -257,6 +257,8 @@ git commit --allow-empty -m "retrigger: fix Docker Hub login"
 
 
 
+
+
 Manage Kubernetes Resources Using CLI
 
 A. Install Docker
@@ -384,4 +386,5 @@ In this lab, you learned how to:
 2. Create and manage Pods.
 3. Deploy and scale applications.
 4. Expose Deployments as services.
+
 5. Clean up resources safely.
